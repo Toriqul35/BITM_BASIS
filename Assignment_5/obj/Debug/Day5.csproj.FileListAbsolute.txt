@@ -1,0 +1,10 @@
+D:\Project\Bitm\Day5\bin\Debug\Day5.exe.config
+D:\Project\Bitm\Day5\bin\Debug\Day5.exe
+D:\Project\Bitm\Day5\bin\Debug\Day5.pdb
+D:\Project\Bitm\Day5\obj\Debug\Day5.csprojAssemblyReference.cache
+D:\Project\Bitm\Day5\obj\Debug\Day5.Information.resources
+D:\Project\Bitm\Day5\obj\Debug\Day5.Properties.Resources.resources
+D:\Project\Bitm\Day5\obj\Debug\Day5.csproj.GenerateResource.cache
+D:\Project\Bitm\Day5\obj\Debug\Day5.csproj.CoreCompileInputs.cache
+D:\Project\Bitm\Day5\obj\Debug\Day5.exe
+D:\Project\Bitm\Day5\obj\Debug\Day5.pdb
