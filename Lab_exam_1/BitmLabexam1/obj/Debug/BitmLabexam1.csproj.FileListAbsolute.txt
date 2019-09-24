@@ -1,0 +1,10 @@
+E:\BITM\BitmLabexam1\BitmLabexam1\bin\Debug\BitmLabexam1.exe.config
+E:\BITM\BitmLabexam1\BitmLabexam1\bin\Debug\BitmLabexam1.exe
+E:\BITM\BitmLabexam1\BitmLabexam1\bin\Debug\BitmLabexam1.pdb
+E:\BITM\BitmLabexam1\BitmLabexam1\obj\Debug\BitmLabexam1.csprojAssemblyReference.cache
+E:\BITM\BitmLabexam1\BitmLabexam1\obj\Debug\BitmLabexam1.Form1.resources
+E:\BITM\BitmLabexam1\BitmLabexam1\obj\Debug\BitmLabexam1.Properties.Resources.resources
+E:\BITM\BitmLabexam1\BitmLabexam1\obj\Debug\BitmLabexam1.csproj.GenerateResource.cache
+E:\BITM\BitmLabexam1\BitmLabexam1\obj\Debug\BitmLabexam1.csproj.CoreCompileInputs.cache
+E:\BITM\BitmLabexam1\BitmLabexam1\obj\Debug\BitmLabexam1.exe
+E:\BITM\BitmLabexam1\BitmLabexam1\obj\Debug\BitmLabexam1.pdb
